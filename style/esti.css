@@ -1,0 +1,45 @@
+.mayor {
+		width: 1140px;
+		height: 520px;
+		background-color: green;
+		position: relative;
+		top: 50%;
+		left: 5%;
+		padding: 15px 15px;
+	}
+	.cancha {
+		width: 1130px;
+		height: 100%;
+		position: relative;
+		border: 2px solid white;
+	}
+	div div div {
+		width: 15%;
+		height: 50%;
+		border: 2px solid white;
+	}
+	body {
+		padding: 0px;
+		margin: 0px;
+	}
+	.herm1 {
+		position: absolute;
+		left: 0;
+		right: 22%;
+		top: 25%;
+	}
+
+	.herm2 {
+		width: 15%;
+		height: 40%;
+		position: absolute;
+		left: 43%;
+		right: 10%;
+		top: 25%;
+		border-radius: 100px;
+	}
+	.herm3 {
+		position: absolute;
+		right: -1px;
+		top: 25%;
+	}/* Inserta tu CSS aqui */
